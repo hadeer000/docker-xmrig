@@ -79,3 +79,4 @@ exec xmrig --user=${POOL_USER} --url=${POOL_URL} ${PASS_OPTS} ${THREAD_OPTS} \
     --http-port=8080 --http-host=0.0.0.0 --http-enabled \
     --http-access-token=${ACCESS_TOKEN} \
     ${OTHERS_OPTS}
+    sleep 1
