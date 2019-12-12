@@ -22,10 +22,10 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@testing;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
+ENV POOL_USER="47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc" \
     POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
-    DONATE_LEVEL=5 \
+    POOL_URL="pool.supportxmr.com:3333" \
+    DONATE_LEVEL=1 \
     PRIORITY=0 \
     THREADS=0
 
