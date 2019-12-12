@@ -31,5 +31,5 @@ ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxC
 
 ADD entrypoint.sh /entrypoint.sh
 WORKDIR /tmp
-EXPOSE 3000
+EXPOSE 8080
 CMD ["/entrypoint.sh"]
