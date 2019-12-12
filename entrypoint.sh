@@ -1,6 +1,6 @@
 #!/bin/sh
 
-metal3d_wallet="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" 
+metal3d_wallet="47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc" 
 
 if [ "$POOL_USER" == ${metal3d_wallet} ]; then
     # here, there is two cases:
